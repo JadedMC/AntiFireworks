@@ -1,0 +1,3 @@
+# List of all worlds fireworks should be disabled in.
+DisabledWorlds:
+  - exampleWorld

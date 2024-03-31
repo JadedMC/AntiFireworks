@@ -1,0 +1,4 @@
+name: AntiFireworks
+version: '${project.version}'
+main: net.jadedmc.antifireworks.AntiFireworksPlugin
+api-version: 1.13
